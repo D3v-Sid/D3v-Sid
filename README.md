@@ -6,15 +6,12 @@
 
 -   🔭 I’m currently working on [Something](placeholderLink)
 
--   🌱 I’m currently learning **Everything !**
+-   🌱 I’m currently learning **JavaScript | PHP**
 
--   👨‍💻 All of my projects are available at [placeholderLink](placeholderLink)
+-   👨‍💻 All of my projects are available at [Link](https://d3v-sid.github.io/D3v-Sid/)
 
--   📝 I regularly write articles on [placeholderLink](placeholderLink)
-
--   📫 How to reach me **Dev-Sid@protonmail.com**
-
--   📄 Know about my experiences [Link](https://d3v-sid.github.io/D3v-Sid/)
+<!-- -   📫 How to reach me **Dev-Sid@protonmail.com**
+ -->
 
 -   ⚡ Fun fact **I learned code @40**
 
@@ -30,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3v-sid&show_icons=true&locale=en" alt="d3v-sid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3v-sid&" alt="d3v-sid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3v-sid&" alt="d3v-sid" /></p>
