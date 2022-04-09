@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sylvain</h1>
-<h3 align="center">But you can call me Sid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3v-sid&label=Profile%20views&color=0e75b6&style=flat" alt="d3v-sid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3v-sid" alt="d3v-sid" /></a> </p>
 
-- 🔭 I’m currently working on [Something](placeholderLink)
+-   🔭 I’m currently working on [Something](placeholderLink)
 
-- 🌱 I’m currently learning **Everything !**
+-   🌱 I’m currently learning **Everything !**
 
-- 👨‍💻 All of my projects are available at [placeholderLink](placeholderLink)
+-   👨‍💻 All of my projects are available at [placeholderLink](placeholderLink)
 
-- 📝 I regularly write articles on [placeholderLink](placeholderLink)
+-   📝 I regularly write articles on [placeholderLink](placeholderLink)
 
-- 📫 How to reach me **Dev-Sid@protonmail.com**
+-   📫 How to reach me **Dev-Sid@protonmail.com**
 
-- 📄 Know about my experiences [placeholderLink](placeholderLink)
+-   📄 Know about my experiences [Link](https://d3v-sid.github.io/D3v-Sid/)
 
-- ⚡ Fun fact **I learned code @40**
+-   ⚡ Fun fact **I learned code @40**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@d3v_sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@d3v_sid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
