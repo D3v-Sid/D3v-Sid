@@ -5,9 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3v-sid" alt="d3v-sid" /></a> </p>
 
+- 🔭 I’m currently working on [Something](placeholderLink)
+
 - 🌱 I’m currently learning **Everything !**
 
+- 👨‍💻 All of my projects are available at [placeholderLink](placeholderLink)
+
+- 📝 I regularly write articles on [placeholderLink](placeholderLink)
+
 - 📫 How to reach me **Dev-Sid@protonmail.com**
+
+- 📄 Know about my experiences [placeholderLink](placeholderLink)
 
 - ⚡ Fun fact **I learned code @40**
 
