@@ -1,0 +1,12 @@
+.hero {
+	background-color: #394046;
+	/* 	background-image: url("https://source.unsplash.com//Lks7vei-eAg/1000x250");
+ */
+	background-position: center;
+	background-size: cover;
+	padding: 1.5rem;
+	color: white;
+}
+h1 {
+	color: white;
+}

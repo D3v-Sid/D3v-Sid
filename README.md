@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3v-sid" alt="d3v-sid" /></a> </p>
 
--   🔭 I’m currently working on [Something](placeholderLink)
+-   🔭 I’m currently working on Learning PHP
 
 -   🌱 I’m currently learning **JavaScript | PHP**
 
